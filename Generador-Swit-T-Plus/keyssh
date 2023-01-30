@@ -67,12 +67,17 @@ touch /var/www/html/$key_tmp/index.html > /dev/null 2>&1
 fi
 clear
 echo -e "\033[0;34m ========================="
-echo -e "\033[1;33m PIRATA SSHPLUS-KEY!    \033[0m"
+echo -e "\033[1;33m GERADOR SSHPLUS-KEY!    \033[0m"
 echo -e "\033[0;34m ========================="
-echo -e "AMD-&-INTEL"
+echo -e "AMD-&-INTEL-PIRATASSH-PLUS"
 echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/piratassh/PR0/main/ssh-plus)"
-echo -e "ARM"
+echo -e "ARM-PIRATASSH-PLUS"
 echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/piratassh/PR0/main/ssh-plus)"
+echo -e ""
+echo -e "AMD-&-INTEL-NETSHOW-TOP"
+echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/netshow-top/PR0/main/ssh-plus)"
+echo -e "ARM-NETSHOW-TOP"
+echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/netshow-top/PR0/main/ssh-plus)"
 echo -e ""
 echo -e "\033[1;32m KEY:\033[1;37m $key_tmp\033[0m"
 echo -e ""
@@ -129,13 +134,18 @@ touch /var/www/html/$key_tmp/index.html > /dev/null 2>&1
 fi
 clear
 echo -e "\033[0;34m ========================="
-echo -e "\033[1;33m PIRATA SSHPLUS-KEY!    \033[0m"
+echo -e "\033[1;33m GERADOR SSHPLUS-KEY!    \033[0m"
 echo -e "\033[0;34m ========================="
 echo -e ""
-echo -e "AMD-&-INTEL"
+echo -e "AMD-&-INTEL-PIRATASSH-PLUS"
 echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/piratassh/PR0/main/ssh-plus)"
-echo -e "ARM"
+echo -e "ARM-PIRATASSH-PLUS"
 echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/piratassh/PR0/main/ssh-plus)"
+echo -e ""
+echo -e "AMD-&-INTEL-NETSHOW-TOP"
+echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/netshow-top/PR0/main/ssh-plus)"
+echo -e "ARM-NETSHOW-TOP"
+echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget -y; bash <(wget -qO- raw.githubusercontent.com/netshow-top/PR0/main/ssh-plus)"
 echo -e ""
 echo -e "\033[1;32m KEY:\033[1;37m $key_tmp\033[0m"
 echo -e ""
@@ -193,7 +203,7 @@ fi
 }
 
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[41;1;37m           PIRATA SSHPLUS-KEY!       \E[0m"
+echo -e "\E[41;1;37m           GERADOR SSHPLUS-KEY!       \E[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 mine_port
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
